@@ -1,3 +1,25 @@
-body {
-  font-family: monospace;
+h1{
+  font-family: Monotype Corsiva;
+  font-weight: 600px;
+  color: white;
+}
+
+h2{
+  font-family: Monotype Corsiva;
+  color: white;
+}
+
+h4{
+  font-family: Sans Narrow Bold;
+  color: white;
+}
+
+img{
+	border: dotted;
+	width: 10%;
+}
+
+body{
+	background-image: url("g.jfif");
+	background-size: 100%;
 }
